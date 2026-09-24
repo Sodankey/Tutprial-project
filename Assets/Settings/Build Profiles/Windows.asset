@@ -25,6 +25,9 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Scenes/Minigame.unity
     m_guid: feb7a80cc857f5e468f22889c6be2785
+  - m_enabled: 1
+    m_path: Assets/Scenes/Start Scene.unity
+    m_guid: 8d36e1d22103585409f37ee892569135
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
