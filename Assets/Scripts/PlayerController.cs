@@ -2,7 +2,6 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
-using Unity.ProjectAuditor.Editor.Core;
 using System.Collections;
 
 public class PlayerController : MonoBehaviour
